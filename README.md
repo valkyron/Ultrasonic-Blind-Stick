@@ -1,4 +1,4 @@
-# hackathon
+# Ultrasonic Blind Stick
 According to the WHO, about 285 million people are estimated to be visually impaired and 39 million are blind worldwide. 
 The blind stick , well known in the world as ‘White Cane’, specifically designed for assisting the visually impaired these are longer 
 and thinner and allow the user to "feel" the path ahead, but for a really small range.
@@ -12,6 +12,8 @@ On sensing obstacles the sensor passes this data to the arduino. The arduino the
 If the obstacle is close it sends a signal to sound a buzzer. 
 When the distance reaches for a value greater than the benchmark value then the buzzers sounds with greater intensity.
 When the distance reaches for a value less than the benchmark value then the buzzers sounds with lower intensity.
+
+#Arduino Code
 
 Below is the code the project has been operating on using Arduino:
 
