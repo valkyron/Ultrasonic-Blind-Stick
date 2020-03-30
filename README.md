@@ -17,6 +17,7 @@ When the distance reaches for a value less than the benchmark value then the buz
 
 Below is the code the project has been operating on using Arduino:
 
+```
 int vibr_pin=3;
 int LED_Pin=13;
 int t = 6;
@@ -96,3 +97,4 @@ void loop() {
   }
   */
 }
+```
