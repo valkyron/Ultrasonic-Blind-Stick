@@ -4,7 +4,7 @@ The blind stick , well known in the world as ‘White Cane’, specifically desi
 and thinner and allow the user to "feel" the path ahead, but for a really small range.
 Is there any better alternative which can solve this trouble?
 
-The UBS is an advanced design integrated with ultrasonic sensor along with buzzer and haptic sensing.  
+The UBS is an advanced design integrated with ultrasonic sensor (Ultrasonic Sensor HC-SR04) along with buzzer and haptic sensing.  
 Our proposed project first uses ultrasonic sensors to detect obstacles ahead using ultrasonic waves and calculates distance .
 
 Our proposed project first uses ultrasonic sensors to detect obstacles ahead using ultrasonic waves. 
